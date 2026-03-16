@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 3
   tags:
   - Key
+  - Anchor
+  - cradleBall
   layers:
   - Default
   - TransparentFX
